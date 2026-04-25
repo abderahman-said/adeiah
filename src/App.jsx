@@ -56,7 +56,7 @@ function App() {
       <header className="header">
         <div className="header-inner">
           <p className="bismillah">بسم الله الرحمن الرحيم</p>
-          <h1 className="logo">زاد المسلم</h1>
+          <h1 className="logo">ادعية المسلم</h1>
           <p className="header-sub">أدعية وأذكار يومية مختارة</p>
         </div>
       </header>
